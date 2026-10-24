@@ -35,12 +35,13 @@ The project is being developed as part of the YuvaIntern Data Science with Pytho
 
 ## 📅 Internship Progress
 
-* [x] **Week 1:** Problem Definition
-* [ ] **Week 2:** Data Sourcing
-* [ ] **Week 3:** Data Preprocessing
-* [ ] **Week 4:** Exploratory Data Analysis and Feature Engineering
-* [ ] **Week 5:** Predictive Modeling
-* [ ] **Week 6:** Model Evaluation
+* ✅ **Week 1:** Problem Definition — Completed
+* ✅ **Week 2:** Data Sourcing and Initial Data Validation — Completed
+* ✅ **Week 3:** Data Cleaning and Preprocessing — Completed
+* 🔄 **Week 4:** Exploratory Data Analysis and Feature Engineering — Upcoming
+* ⏳ **Week 5:** Predictive Modeling — Planned
+* ⏳ **Week 6:** Model Evaluation — Planned
+
 
 ## 📂 Planned Repository Structure
 
@@ -72,7 +73,9 @@ Weekly internship reports will be added to the `reports/` directory as they are 
 
 ## ⚠️ Project Status and Transparency
 
-This project is currently in its problem-definition stage. Dataset validation, data cleaning, statistical analysis, and model development are planned activities; results will be reported only after the relevant work has been completed.
+Weeks 1–3 are complete, covering problem definition, data sourcing, initial validation, data cleaning, and preprocessing. The review dataset contains 1,094,411 records across five files, and the processed review files have passed row-count, product-ID, and rating validation checks. The product dataset contains 8,494 records.
+Exploratory data analysis, feature engineering, predictive modeling, and model evaluation remain planned activities. Findings and model performance will be documented only after the corresponding analyses are completed.
+
 
 ## 👩‍💻 Author
 
