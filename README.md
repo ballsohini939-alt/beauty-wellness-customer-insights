@@ -8,7 +8,7 @@ This project explores how data science can help businesses in the beauty and wel
 
 The project is being developed as part of the YuvaIntern Data Science with Python Analyst Internship. It follows a structured workflow covering problem definition, data sourcing, preprocessing, exploratory data analysis, feature engineering, predictive modeling, and model evaluation.
 
-**Current status:** Week 1 — Problem Definition completed.
+**Current status:** Week 1 — Problem Definition completed; Week 2 — Data Sourcing and Initial Data Validation completed.
 
 ## 🎯 Objectives
 
