@@ -1,29 +1,27 @@
 # Beauty & Wellness Customer Insights
 
-### Data Science with Python Analyst Internship — YuvaIntern
+**A Data Science with Python Analyst Internship Project**
 
-A data science project focused on analyzing beauty product ratings and customer reviews to identify patterns, explore product feedback, and investigate potential applications of data-driven decision-making.
+## 📌 Project Overview
 
-## About the Project
+This project explores how data science can help businesses in the beauty and wellness industry understand product ratings, customer reviews, and purchasing preferences.
 
-Beauty and skincare businesses receive feedback through product ratings and online reviews. Analyzing this information can help identify trends, compare product categories, and better understand customer feedback.
+The project is being developed as part of the YuvaIntern Data Science with Python Analyst Internship. It follows a structured workflow covering problem definition, data sourcing, preprocessing, exploratory data analysis, feature engineering, predictive modeling, and model evaluation.
 
-This project will use Python and data analysis techniques to explore publicly available beauty product and review data.
+**Current status:** Week 1 — Problem Definition completed.
 
-The project is being developed as part of my Data Science with Python Analyst Internship at YuvaIntern.
+## 🎯 Objectives
 
-## Objectives
-
-* Define a relevant business problem in the beauty and wellness industry.
-* Identify and assess a suitable public dataset.
-* Clean and preprocess data using Python.
+* Understand the business problem and define measurable research objectives.
+* Identify and validate a suitable dataset.
+* Clean and preprocess the data using Python.
 * Perform exploratory data analysis (EDA).
-* Create meaningful visualizations and derived features.
-* Investigate appropriate statistical methods.
-* Evaluate predictive modeling approaches if the available data supports a valid prediction task.
-* Communicate findings and limitations through a structured report.
+* Investigate relationships between product characteristics and customer ratings.
+* Explore predictive modeling where the available data supports it.
+* Evaluate model performance and communicate findings responsibly.
+* Develop practical, evidence-based business recommendations.
 
-## Technologies
+## 🛠️ Technologies
 
 * Python
 * Pandas
@@ -35,70 +33,54 @@ The project is being developed as part of my Data Science with Python Analyst In
 * Jupyter Notebook
 * Git and GitHub
 
-## Project Structure
+## 📅 Internship Progress
+
+* [x] **Week 1:** Problem Definition
+* [ ] **Week 2:** Data Sourcing
+* [ ] **Week 3:** Data Preprocessing
+* [ ] **Week 4:** Exploratory Data Analysis and Feature Engineering
+* [ ] **Week 5:** Predictive Modeling
+* [ ] **Week 6:** Model Evaluation
+
+## 📂 Planned Repository Structure
 
 ```text
 beauty-wellness-customer-insights/
+├── README.md
+├── requirements.txt
 ├── reports/
 ├── data/
 ├── notebooks/
 ├── src/
 ├── visualizations/
-├── results/
-├── README.md
-├── requirements.txt
-└── .gitignore
+└── results/
 ```
 
-The folders and files will be populated as the project progresses.
+The repository will be expanded as the internship progresses.
 
-## Dataset
+## 📊 Dataset
 
-A publicly listed beauty product and skincare review dataset is being considered as a candidate source.
+A public beauty product and skincare reviews dataset is being considered for this project.
 
-The final dataset will be selected after verifying its schema, data quality, provenance, and applicable usage terms.
+**Candidate source:** [Beauty Products and Skincare Reviews — Kaggle](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews)
 
-Dataset documentation and access instructions will be provided here once the source has been confirmed.
+The dataset's availability, structure, suitability, and usage conditions will be verified during Week 2 before analysis begins.
 
-## Project Progress
+## 📄 Reports
 
-* [x] Week 1: Business Problem Definition and Research Planning
-* [ ] Week 2: Data Identification and Sourcing Strategy
-* [ ] Week 3: Data Cleaning and Preprocessing
-* [ ] Week 4: Exploratory Data Analysis and Feature Engineering
-* [ ] Week 5: Predictive Modeling
-* [ ] Week 6: Model Evaluation and Business Recommendations
+Weekly internship reports will be added to the `reports/` directory as they are completed.
 
-## Current Status
+## ⚠️ Project Status and Transparency
 
-**Stage:** Problem definition and research planning.
+This project is currently in its problem-definition stage. Dataset validation, data cleaning, statistical analysis, and model development are planned activities; results will be reported only after the relevant work has been completed.
 
-The project is in its planning stage. No empirical findings or predictive model performance claims are made at this stage.
-
-## Expected Outcomes
-
-* Reproducible Python analysis.
-* Documented data cleaning procedures.
-* Clear and appropriately labelled visualizations.
-* Statistical findings supported by the selected dataset.
-* Model evaluation results, if predictive modeling is appropriate.
-* Practical business recommendations grounded in the analysis.
-
-## Limitations
-
-Public reviews may not represent all customers. Observational relationships do not automatically establish causation, and product reviews alone do not prove purchasing behavior.
-
-All conclusions will be based on the variables available in the verified dataset.
-
-## Author
+## 👩‍💻 Author
 
 **Sohini Ball**
 
-B.Tech Computer Science and Engineering Student
+* GitHub: [ballsohini939-alt](https://github.com/ballsohini939-alt)
+* LinkedIn: [Sohini Ball](https://www.linkedin.com/in/sohini-ball-698012381/)
 
-GitHub: [ballsohini939-alt](https://github.com/ballsohini939-alt)
+---
 
-## Acknowledgment
-
-Developed as a learning project for the YuvaIntern Data Science with Python Analyst Internship.
-
+*Developed as part of the YuvaIntern Data Science with Python Analyst Internship.*
